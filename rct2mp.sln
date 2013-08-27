@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "injector", "injector\injector.vcxproj", "{7EA7AD06-BCEB-46E4-9DB2-04FD4500C166}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rct2mp", "rct2mp\rct2mp.vcxproj", "{FCE07770-07D4-4EA7-85A1-983FA6B3D8D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA7AD06-BCEB-46E4-9DB2-04FD4500C166}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EA7AD06-BCEB-46E4-9DB2-04FD4500C166}.Debug|Win32.Build.0 = Debug|Win32
+		{7EA7AD06-BCEB-46E4-9DB2-04FD4500C166}.Release|Win32.ActiveCfg = Release|Win32
+		{7EA7AD06-BCEB-46E4-9DB2-04FD4500C166}.Release|Win32.Build.0 = Release|Win32
+		{FCE07770-07D4-4EA7-85A1-983FA6B3D8D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCE07770-07D4-4EA7-85A1-983FA6B3D8D0}.Debug|Win32.Build.0 = Debug|Win32
+		{FCE07770-07D4-4EA7-85A1-983FA6B3D8D0}.Release|Win32.ActiveCfg = Release|Win32
+		{FCE07770-07D4-4EA7-85A1-983FA6B3D8D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

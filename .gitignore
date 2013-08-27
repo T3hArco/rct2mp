@@ -1,0 +1,6 @@
+ipch/
+*.user
+*.sdf
+
+Debug/
+Release/
